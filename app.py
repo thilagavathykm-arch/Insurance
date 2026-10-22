@@ -1,5 +1,6 @@
 """Insurance portal: customer login, register insurance, submit claim, renew, inquiry."""
 import re
+import secrets 
 import secrets
 from datetime import date
 from functools import wraps
